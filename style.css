@@ -1,0 +1,202 @@
+body{
+    font-family: 'Merriweather', serif;
+   
+}
+p{
+    font-size: 18px;
+}
+span{
+    color: rgb(22 77 180);
+}
+.first-section-area{
+    height: 500px;
+    display: flex;
+   padding: 50px 100px ; 
+}
+.f-sec-con-h1-left-b h1{
+    border-left: 4px solid red;
+    padding: 0 0 0 10px;
+
+}
+.first-section{
+    height: 100%;
+    margin: 5px;
+   width: 100%;
+   text-align: center;
+}
+.f-t-center{
+    text-align: left;
+}
+.first-sec-content h1{
+    font-size: 50px;
+}
+.first-sec-btn{
+    margin:30px 0px 5px 0px ;
+    
+}
+.first-section img{
+   width: 60%;}
+   .first-sec-btn a{
+        text-decoration: none;
+        background-color: rgb(22, 77, 180);
+        padding: 15px 30px;
+        border-radius: 5px;
+        color: white;
+   }
+.My-mission{
+    text-align: center;
+    
+
+}
+.missoin-v-g{
+    display: flex;
+    width: 100%;
+    justify-content: center; 
+}
+.mission{
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 15px;
+   
+}
+.mission img{
+    width: 50%;
+}
+.m{
+    background-color: rgb(223, 168, 223);
+    width: 25%;
+}
+.v{
+    background-color: rgb(231, 214, 182);
+    width: 25%;
+}
+.g{
+    background-color: rgb(185, 171, 185);
+    width: 25%;
+}
+
+.second-section-area{
+    height: 500px;
+    display: flex;
+   padding: 50px 100px ; 
+}
+
+.second-section{
+    height: 100%;
+    margin: 5px;
+   width: 100%;
+   text-align: center;
+}
+.s-t-center{
+    text-align: left;
+}
+.second-sec-content h1{
+    font-size: 50px;
+}
+.second-sec-btn{
+    margin:30px 0px 5px 0px ;
+    
+}
+.second-section img{
+   width: 60%;}
+   .second-sec-btn a{
+        text-decoration: none;
+        background-color: rgb(22, 77, 180);
+        padding: 15px 30px;
+        border-radius: 5px;
+        color: white;
+   }
+
+
+
+
+
+
+
+
+   .third-section-area{
+    height: 500px;
+    display: flex;
+   padding: 50px 100px ; 
+}
+
+.third-section{
+    height: 100%;
+    margin: 5px;
+   width: 100%;
+   text-align: center;
+}
+.t-t-center{
+    text-align: left;
+}
+
+
+.third-sec-btn{
+    margin:30px 0px 5px 0px ;
+    
+}
+.third-sec-content{
+    font-size: 30px;
+}
+.third-section img{
+   width: 60%;}
+   .third-sec-btn a{
+        text-decoration: none;
+        background-color: rgb(22, 77, 180);
+        padding: 15px 30px;
+        border-radius: 5px;
+        color: white;
+   }
+
+   .a-my-team{
+       text-align: center;
+       background-color: #FFC107;
+       padding: 20px 0px ;
+   }
+   .five-area-sec{
+    width: 90%;
+    text-align: center;
+    margin: 60px;
+    display: flex;
+     
+}
+
+.my-team{
+
+    width: 100%;
+    padding: 15px 20px;
+    background-color: #2196F3;
+    border-radius: 20px;
+    margin: 15px;
+    box-shadow: 8px 8px 8px rgb(182, 177, 177) ;
+    color: white;
+    
+    
+    
+
+}
+.my-team img{
+    width: 50%;
+    margin: 10px 50px;
+    text-align: center;
+    
+    
+}
+
+
+
+
+footer{ 
+    text-align: center;
+    padding-top: 10px;
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: wheat;
+    
+}
+.missin-2022{
+    font-family: 'Playball', cursive;
+    font-size: 18px;
+}
